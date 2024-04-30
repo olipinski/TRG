@@ -1,0 +1,5 @@
+ID       Horizon     Length_Cost    Msg_Length    Vocab_Size    Sender_Hidden   Receiver_Hidden
+1            8            0            5            26               128               128
+2            8            0.001        5            26               128               128
+3            8            0            6            48               128               128
+4            8            0.001        6            48               128               128
